@@ -6,4 +6,4 @@ In this GitHub repository, we will be creating our first MiniWoB++ Reinforcement
 
 ### Environment Initialization:
 
-An environmnet can be created using [gymnasium.make](gymnasium.farma.org/api/registry/#gymnasium.make)
+An environmnet can be created using [gymnasium.make](https://gymnasium.farama.org/api/registry/#gymnasium.make)
